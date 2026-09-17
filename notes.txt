@@ -1,2 +1,4 @@
 practice round two. Learning git properly.
 second commit in this practice repo.
+
+Learning git with notepad now.
